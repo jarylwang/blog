@@ -1,19 +1,19 @@
 {
-  "name": "serverless-blog",
+  "name": "blog-posts",
   "version": "1.0.0",
-  "description": "Serverless blog content",
+  "description": "Static blog content on JarylWang.com",
   "scripts": {
     "test": "node validate.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serverless/blog.git"
+    "url": "git+https://github.com/jarylwang/blog-posts.git"
   },
-  "author": "Serverless Inc",
+  "author": "Jaryl Wang",
   "bugs": {
-    "url": "https://github.com/serverless/blog/issues"
+    "url": "https://github.com/jarylwang/blog-posts/issues"
   },
-  "homepage": "https://serverless.com/blog",
+  "homepage": "https://www.jarylwang.com/blog",
   "devDependencies": {
     "gray-matter": "^2.1.0",
     "markdown-magic": "0.1.8"
